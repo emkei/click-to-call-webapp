@@ -1,6 +1,6 @@
 <?php
 /* JSON API for calling */
-$passwd = "Krtek1992!";
+$passwd = "MYPASSWORD";
 
 // default standard result
 $result = array("status" => "no-request", "num1" => "", "num2" => "");
